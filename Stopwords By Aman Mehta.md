@@ -1,4 +1,4 @@
-# Stopwords
+# Stopwords By Aman Mehta 
 
 Stopwords are common words that are often filtered out during text processing to improve efficiency and focus on more meaningful content. These words, such as "the," "and," "is," etc., occur frequently in natural language text but typically carry little semantic meaning.
 
