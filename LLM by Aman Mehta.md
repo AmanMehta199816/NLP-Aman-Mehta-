@@ -1,4 +1,5 @@
-# Large Language Models (LLMs) Project README
+# Large Language Models (LLMs) By Aman Mehta 
+![CVtNe84hhYF9u](https://github.com/AmanMehta199816/NLP-Aman-Mehta-/assets/96304523/833462fa-3e42-4c98-bcab-18af8bc2596d)
 
 ## Overview
 Welcome to the README for our Large Language Models (LLMs) project! This document provides an overview of our project, its objectives, methodologies, findings, and more.
